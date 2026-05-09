@@ -27,7 +27,7 @@ class TrainConfig:
     model_name: str = "best_model_adeepextractor.pth"
     norm_name: str = "norm_params_adeepextractor.json"
 
-    epochs: int = 50
+    epochs: int = 200
     batch_size: int = 8
     lr: float = 3e-4
 
