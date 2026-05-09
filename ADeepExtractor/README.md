@@ -25,7 +25,6 @@ ADeepExtractor_github/
 ├── metrics.py        # PSNR, mismatch, PSD helpers, plotting utilities
 ├── train.py          # Training entry point
 ├── requirements.txt  # Python dependencies
-├── .gitignore
 └── README.md
 ```
 
